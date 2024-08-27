@@ -1,5 +1,7 @@
 @charset "UTF-8";
-
+body {
+    background-color: #b8b8b8;
+}
 header,
 main {
     display: flex;
